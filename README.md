@@ -1,2 +1,5 @@
-# python-mongodb-intro-jetbrains-webcast
-Demo code for my webcast on MongoDB hosted by Jetbrains and the PyCharm team
+# MOVED
+
+This code has been moved to another repository. Please jump [over](https://github.com/mikeckennedy/python-mongodb-intro-jetbrains-webcast.git) there.
+
+[github.com/mikeckennedy/python-mongodb-intro-jetbrains-webcast.git](https://github.com/mikeckennedy/python-mongodb-intro-jetbrains-webcast.git)
